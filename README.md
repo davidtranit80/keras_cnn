@@ -1,2 +1,2 @@
 # keras_cnn
-Convolutional Neuron Network
+Convolutional Neural Network
